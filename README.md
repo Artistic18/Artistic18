@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishit</h1>
-<h3 align="center">Hi, I'm Hrishit Biswas, a Web Developer, Machine And Deep Learning Enthusiast, Open Source Developer and a Gamer from India.</h3>
+<h3 align="center">Hi, I'm Hrishit Biswas, a Full Stack Developer, AI Enthusiast and Open Source Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artistic18&label=Profile%20views&color=0e75b6&style=flat" alt="artistic18" /> </p>
 
