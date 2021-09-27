@@ -1,30 +1,50 @@
-<h1 align="center">Hi 👋, I'm Hrishit</h1>
-<h3 align="center">Hi, I'm Hrishit Biswas, a Full Stack Developer, AI Enthusiast and Open Source Developer.</h3>
+### Hey Stranger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/artistic18/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/Hrishit15">
+  <img align="left" alt="Hrishit Biswas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artistic18&label=Profile%20views&color=0e75b6&style=flat" alt="artistic18" /> </p>
 
-- 🔭 I’m currently working on [Cadenza](https://github.com/Artistic18/Cadenza)
+<br />
 
-- 🌱 I’m currently learning **Computer Vision**
+Hi, i'm 
 
-- 👯 I’m looking to collaborate on **Any Open Source Project involving Web Development/Machine Learning/Deep Learning**
+<h3>Hrishit Biswas</h3> 
 
-- 🤝 I’m looking for help with **Competitive Programming and OpenCV 😫**
+A passionate full stack web developer and SDE from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am eager to work in a progressive work environment, and learn new concepts for building next generation products. I am also an Open Source Enthusiast and love to contribute to open source projects.
 
-- 💬 Ask me about **Anything tech related!!**
 
-- 📫 How to reach me **Github: @Artistic18, Linkedin: @Hrishit**
 
-- ⚡ Fun fact **I love playing games and watching anime, and a bit of development 😝**
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 🌱 I’m currently learning **System Design**
+- 💬 Ask me about anything, I am happy to help;
+- ⚡ Fun fact **I love playing games, watching anime, and a bit of development 😝**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hrishit15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrishit15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/artistic18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="artistic18" height="30" width="40" /></a>
-</p>
+**Languages And Tools:**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=cplusplus&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=Redux&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Lib-Sagas-informational?style=flat&logo=redux-saga&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=c792ea)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=artistic18&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="artistic18" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=artistic18&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="artistic18" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artistic18&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="artistic18" /></p>
+
+
+
+
+
