@@ -41,7 +41,7 @@ A passionate full stack web developer and SDE from india. My passion for softwar
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=artistic18&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="artistic18" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=artistic18&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="artistic18" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artistic18&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="artistic18" /></p>
 
 
