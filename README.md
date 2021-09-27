@@ -26,18 +26,18 @@ A passionate full stack web developer and SDE from india. My passion for softwar
 
 **Languages And Tools:**  
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=cplusplus&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=Redux&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Lib-Sagas-informational?style=flat&logo=redux-saga&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=c792ea)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=c792ea)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=cplusplus&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=Redux&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Lib-Sagas-informational?style=flat&logo=redux-saga&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=ae82cf)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ae82cf)
 
 
 
