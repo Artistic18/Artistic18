@@ -18,7 +18,7 @@ A passionate full stack web developer and SDE from india. My passion for softwar
 
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/Artistic18/Artistic18/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about anything, I am happy to help;
