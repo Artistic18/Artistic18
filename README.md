@@ -20,7 +20,7 @@ A passionate full stack web developer and SDE from india. My passion for softwar
 
 <img align="center" alt="GIF" src="https://github.com/Artistic18/Artistic18/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact **I love playing games, watching anime, and a bit of development 😝**
 
