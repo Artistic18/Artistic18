@@ -10,9 +10,9 @@
 
 <br />
 
-Hi, i'm 
+<h2>Hi, i'm</h2>
 
-<h3>Hrishit Prasad Biswas</h3> 
+***<h3>Hrishit Prasad Biswas</h3>*** 
 
 A passionate full stack web developer and SDE from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am eager to work in a progressive work environment, and learn new concepts for building next generation products. I am also an Open Source Enthusiast and love to contribute to open source projects.
 
